@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-1225.62,-1195.01)">
+        <g id="safari-pinned-tab" transform="matrix(1,0,0,1,1225.62,1195.01)">
+            <rect x="0" y="0" width="1024" height="1024" style="fill:none;"/>
+            <clipPath id="_clip1">
+                <rect x="0" y="0" width="1024" height="1024"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(1,0,0,1,-1225.62,-1195.01)">
+                    <path d="M1166.93,1528.58C1166.93,1528.58 1328.42,1476.21 1563.81,1444.85C1762.91,1418.32 2050.56,1465.77 2193.92,1479.13C2347.06,1493.4 2524.1,1485.85 2524.1,1485.85L2464.72,1614.56C2464.72,1614.56 2264.32,1587.73 2212.15,1628.35C2130.69,1691.79 2142.89,1982.72 2009.34,2098.14C1838.32,2245.93 1512.5,2191.37 1408.1,2113.47C1273.11,2012.74 1320.8,1815.48 1252.96,1722.99C1185.13,1630.5 1144.69,1619.26 1144.69,1619.26L1166.93,1528.58ZM1389.49,1629.51C1414.12,1551.83 1487.55,1527.54 1725.36,1520.44C1847.96,1516.78 2012.45,1524.77 2069.15,1612.92C2111.92,1679.41 2043.03,1989.46 1917.35,2058.93C1791.67,2128.4 1607.06,2136.94 1480.99,2042.34C1399.37,1981.09 1350.67,1752 1389.49,1629.51Z" style="fill:rgb(1,0,0);"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
